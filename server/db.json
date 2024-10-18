@@ -1,0 +1,167 @@
+{
+    "sales": [
+        {
+            "id": 1,
+            "name": "HAVIT HV-G92 Gamepad",
+            "price_not_sales": 12000,
+            "price_sales": 9000,
+            "sales": "30%",
+            "stars": 3.5,
+            "in_sales": true,
+            "report": 80,
+            "image": "/controller.webp",
+            "date": "Mon Nov 12 2024 16:57:21 GMT+0500 (Западный Казахстан)",
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "AK-900 Wired Keyboard",
+            "price_not_sales": 35000,
+            "price_sales": 30000,
+            "sales": "10%",
+            "stars": 4.5,
+            "in_sales": true,
+            "report": 75,
+            "image": "/keyboard.webp",
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "IPS LCD Gaming Monitor",
+            "price_not_sales": 55000,
+            "price_sales": 30000,
+            "sales": "40%",
+            "stars": 1.5,
+            "in_sales": true,
+            "report": 105,
+            "image": "/monitor.webp",
+            "active": true
+        },
+        {
+            "id": 4,
+            "name": "S-Series Comfort Chair",
+            "price_not_sales": 12500,
+            "price_sales": 9850,
+            "sales": "20%",
+            "stars": 2.5,
+            "in_sales": true,
+            "report": 250,
+            "image": "/chair.webp",
+            "active": true
+        },
+        {
+            "id": 5,
+            "name": "RGB liquid CPU Cooler",
+            "price_not_sales": 20500,
+            "price_sales": 15850,
+            "sales": "40%",
+            "stars": 4.8,
+            "in_sales": true,
+            "report": 18,
+            "image": "/cooler.webp",
+            "active": false
+        },
+        {
+            "id": 6,
+            "name": "RGB liquid CPU Cooler",
+            "price_not_sales": 20500,
+            "price_sales": 15850,
+            "sales": "40%",
+            "stars": 4.9,
+            "in_sales": true,
+            "report": 18,
+            "image": "/cooler.webp",
+            "active": false
+        },
+        {
+            "id": 7,
+            "name": "S-Series Comfort Chair",
+            "price_not_sales": 12500,
+            "price_sales": 9850,
+            "sales": "20%",
+            "stars": 2.5,
+            "in_sales": true,
+            "report": 250,
+            "image": "/chair.webp",
+            "active": true
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title_en": "Phones",
+            "title_ru": "Телефоны",
+            "title_kk": "Телефондар",
+            "path": "categories/phones"
+        },
+        {
+            "id": 2,
+            "title_en": "Computers",
+            "title_ru": "Компьютеры",
+            "title_kk": "Компьютерлер",
+            "path": "categories/computers"
+        },
+        {
+            "id": 3,
+            "title_en": "SmartWatches",
+            "title_ru": "Умные часы",
+            "title_kk": "Ақылды сағат",
+            "path": "categories/smart-watches"
+        },
+        {
+            "id": 4,
+            "title_en": "Cameras",
+            "title_ru": "Камеры",
+            "title_kk": "Камеры",
+            "path": "categories/cameras"
+        },
+        {
+            "id": 5,
+            "title_en": "Headphones",
+            "title_ru": "Наушники",
+            "title_kk": "Құлаққаптар",
+            "path": "categories/head-phones"
+        },
+        {
+            "id": 6,
+            "title_en": "Gamings",
+            "title_ru": "Игры",
+            "title_kk": "Ойындар",
+            "path": "categories/gamings"
+        }
+    ],
+    "populares": [
+        {
+            "id": 1,
+            "name": "The north coat",
+            "price": "39000",
+            "stars": 4.9,
+            "report": "999",
+            "image": "/kurwa.webp"
+        },
+        {
+            "id": 2,
+            "name": "Gucci duffle bag",
+            "price": "72000",
+            "stars": 4.5,
+            "report": "51",
+            "image": "/gucci.webp"
+        },
+        {
+            "id": 3,
+            "name": "Quilted Satin Jacket",
+            "price": "28500",
+            "stars": 5,
+            "report": "92",
+            "image": "/kurtka.webp"
+        },
+        {
+            "id": 4,
+            "name": "Small BookSelf",
+            "price": "78500",
+            "stars": 4.8,
+            "report": "28",
+            "image": "/books.webp"
+        }
+    ]
+}
